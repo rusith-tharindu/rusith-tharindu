@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)(https://codeineinfo.com)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)(https://codeineinfo.com)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
