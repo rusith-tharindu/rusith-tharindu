@@ -1,4 +1,4 @@
-[![MasterHead]()](https://codeineinfo.com])
+[![MasterHead]()](https://codeineinfo.com)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
