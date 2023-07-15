@@ -1,4 +1,4 @@
-[![MasterHead]([https://commons.wikimedia.org/wiki/File:Digital_rain_banner.gif#/media/File:Digital_rain_banner.gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif))](https://codeineinfo.com)
+[![MasterHead]([[https://commons.wikimedia.org/wiki/File:Digital_rain_banner.gif#/media/File:Digital_rain_banner.gif](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif))](https://codeineinfo.com)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
