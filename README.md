@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+![MasterHead](https://drive.google.com/file/d/14v_H668vzTbxlxjLx3sSXK_qV68z_UuJ/view?usp=sharing)
 (https://codeineinfo.com)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
