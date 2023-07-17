@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://i.imgur.com/HCFdjef.gif)
 (https://codeineinfo.com)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate UX/UI and Frontend developer</h3>
