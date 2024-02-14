@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/HCFdjef.gif)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
-<h3 align="center">A passionate UX/UI and Frontend developer</h3>
+<h3 align="center">A passionate UX/UI and Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rusith23" target="blank"><img src="https://img.shields.io/twitter/follow/rusith23?logo=twitter&style=for-the-badge" alt="rusith23" /></a> </p>
 
-- 🔭 I’m currently working on **UX / UI and C# app developing**
+- 🔭 I’m currently working on **UX / UI and Mobile App developing**
 
 - 🌱 I’m currently learning **Computer Science at Plymouth University / UK**
 
