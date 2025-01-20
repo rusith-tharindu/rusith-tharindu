@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Computer Science at Plymouth University / UK**
 
-- 📫 How to reach me **ruzistudios1997@gmail.com**
+- 📫 How to reach me **rusith.athukorala@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
