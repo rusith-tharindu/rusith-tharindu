@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*nwhfNwNtPw-bPg8WC9uCBg.gif)
+![MasterHead](https://i.pinimg.com/originals/01/78/71/0178717b986c40c909e35213e4f25ad0.gif)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate UX/UI and Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
