@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rusith23" target="blank"><img src="https://img.shields.io/twitter/follow/rusith23?logo=twitter&style=for-the-badge" alt="rusith23" /></a> </p>
 
-- 🔭 I’m currently working on **UX / UI and Mobile App developing**
+- 🔭 I’m currently working as a **UX / UI and Mobile Application developer**
 
 - 🌱 **BSc(Hons)Computer Science - Second Class (Upper-Division) at Plymouth University / UK**
 
