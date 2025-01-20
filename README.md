@@ -27,7 +27,7 @@
   <!-- Add your existing tools here -->
 </p>
 
-<h3 align="left">My Credly Badge:</h3>
+<h3 align="left">My Certifications & Licenses:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/4aaef1a9-2e0b-4e1e-85f2-eec7f20e713a" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/400b84a4-166a-4771-b4d2-72c280cce355/Front_20end_20Development_20with_20React_20V2.png" alt="Credly Badge" width="150">
