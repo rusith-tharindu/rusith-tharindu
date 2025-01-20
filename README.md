@@ -37,5 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusith-tharindu&show_icons=true&locale=en" alt="rusith-tharindu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusith-tharindu&" alt="rusith-tharindu" /></p>
-
-code above is my current ReadMe.md file of the github please add the badge (certificate) to this code. here is the badge link: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4aaef1a9-2e0b-4e1e-85f2-eec7f20e713a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
