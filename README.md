@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **UX / UI and Mobile App developing**
 
-- 🌱 I’m currently learning **Computer Science at Plymouth University / UK**
+- 🌱 **BSc(Hons)Computer Science - Second Class (Upper-Division) at Plymouth University / UK**
 
 - 📫 How to reach me **rusith.athukorala@yahoo.com**
 
