@@ -30,7 +30,7 @@
 <h3 align="left">My Credly Badge:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/4aaef1a9-2e0b-4e1e-85f2-eec7f20e713a" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/4aaef1a9-2e0b-4e1e-85f2-eec7f20e713a/image.png" alt="Credly Badge" width="150">
+    <img src="[https://images.credly.com/size/220x220/images/4aaef1a9-2e0b-4e1e-85f2-eec7f20e713a/image.png](https://drive.google.com/file/d/1bGBLufW8AMDZqXWtvXcaiT4HS5i66wTC/view?usp=sharing)" alt="Credly Badge" width="150">
   </a>
 </p>
 
