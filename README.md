@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/HCFdjef.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Matrix_Digital_rain_banner.gif/1600px-Matrix_Digital_rain_banner.gif)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate UX/UI and Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
