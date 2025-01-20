@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/HCFdjef.gif)
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/91602624305414143/1801726A59F34BFF6073DF97ED5C26EF05AD86BD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <h1 align="center">Hi 👋, I'm Ruzi</h1>
 <h3 align="center">A passionate UX/UI and Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
